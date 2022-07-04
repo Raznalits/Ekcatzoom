@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\Classic\Classic\bin\Debug\Classic.dll
+C:\Users\Администратор\source\repos\Classic\Classic\bin\Debug\Classic.pdb
+C:\Users\Администратор\source\repos\Classic\Classic\obj\Debug\Classic.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Classic\Classic\obj\Debug\Classic.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Classic\Classic\obj\Debug\Classic.dll
+C:\Users\Администратор\source\repos\Classic\Classic\obj\Debug\Classic.pdb
